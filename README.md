@@ -16,3 +16,5 @@ The project is a two-player 2D survival game in which the two players help each 
 <h3> Gameplay </h3>
 
 The players must cooperate with each other to escape from the start to the end, In Every level they must get the key of the gate that they move through to reach the next level. they also must collect all the coins, otherwise they will not be able to open the gate with the key. On their way they will face skeletons and they can kill them. If one of the players died, the game will be over and they have to play the level again. After all the levels, they will face the boss. The boss has an electric laser that burns players, They must avoid it and fire the cannon on him until he dies. If they managed to do all of this, they will escape the dungeon and reach their home.
+
+[Watch the trailer!](Trailer.mp4)
